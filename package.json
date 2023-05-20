@@ -1,6 +1,6 @@
 {
-  "name": "trabalho_final_modulo_back_end_1",
-  "version": "1.0.0",
+	"name": "trabalho_final_modulo_back_end_1",
+	"version": "1.0.0",
 	"main": "index.js",
 	"license": "MIT",
 	"type": "module",
