@@ -1,9 +1,9 @@
 const express = require('express');
 
 const app = express();
-const PORT = 8081;
 
 app.use(express.json());
+const PORT = 8081;
 
 const listaUsuarios = [];
 const listaRecados = [];
